@@ -25,7 +25,7 @@ Step 1:Clone The Project
 
     $ git clone <repository-url>
 
-![img.png](img.png)
+
 
 Step 2: Install Djago
     
